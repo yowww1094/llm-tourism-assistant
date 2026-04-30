@@ -1,0 +1,9 @@
+.env
+node_modules/
+
+# data files should not be pushed
+reddit.csv
+rag_chunks.json
+rag_documents.json
+questions.json
+train.jsonl

@@ -1,0 +1,9 @@
+model: Qwen/Qwen2-1.5B-Instruct
+precision: fp16
+lora_r: 16
+lora_alpha: 32
+epochs: 3
+learning_rate: 2e-4
+batch_size: 4
+dataset_path: data/samples/tourism_train.jsonl
+output_dir: ./outputs
