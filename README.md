@@ -247,9 +247,9 @@ A few things that didn't go as planned:
 
 | Resource | Link |
 |---|---|
-| Hugging Face Model | [https://huggingface.co/yowww1094/tourism-llm-fine-tuned-qwen2-1.5b-lora-merged] |
-| Hugging Face Dataset | [https://huggingface.co/datasets/yowww1094/tourism-llm-fine-tuning-dataset] |
-| Live Demo | [https://huggingface.co/spaces/yowww1094/AI-tourism-chatbot] |
+| Hugging Face Model | [Model]([https://huggingface.co/yowww1094/tourism-llm-fine-tuned-qwen2-1.5b-lora-merged) |
+| Hugging Face Dataset | [Dataset](https://huggingface.co/datasets/yowww1094/tourism-llm-fine-tuning-dataset) |
+| Live Demo | [Demo](https://huggingface.co/spaces/yowww1094/AI-tourism-chatbot) |
 | Technical Report | [docs/technical_report.pdf](docs/technical_report.pdf) |
 
 ---
